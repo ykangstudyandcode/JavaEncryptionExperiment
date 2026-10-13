@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args){
 
         String password = "Summer2026!";
-        byte[] input = password.getBytes(StandardCharsets.UTF_8)
+        byte[] input = password.getBytes(StandardCharsets.UTF_8);
 
 
         System.out.println(password);
